@@ -11,6 +11,6 @@ ports:
 vscode:
   extensions:
     - robole.javascript-snippets
-    - .vscode/sdras.vue-vscode-snippets-3.1.1.vsix
+    - https://github.com/cloudybasement/vue-training/blob/1f7df9a8eca33a7bb4e0b6d54eeb90e0a1e0f220/.vscode/sdras.vue-vscode-snippets-3.1.1.vsix
     - ecmel.vscode-html-css
-    - /workspace/vue-training/.vscode/Vue.volar-0.38.5@linux-x64.vsix
+    - https://github.com/cloudybasement/vue-training/blob/1f7df9a8eca33a7bb4e0b6d54eeb90e0a1e0f220/.vscode/Vue.volar-0.38.5@linux-x64.vsix
