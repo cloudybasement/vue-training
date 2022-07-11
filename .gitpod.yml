@@ -1,0 +1,16 @@
+
+tasks:
+  - init: echo 'init script' # runs during prebuild
+    command: echo 'start script'
+
+# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
+ports:
+  - port: 3000
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - robole.javascript-snippets
+    - .vscode/sdras.vue-vscode-snippets-3.1.1.vsix
+    - ecmel.vscode-html-css
+    - /workspace/vue-training/.vscode/Vue.volar-0.38.5@linux-x64.vsix
